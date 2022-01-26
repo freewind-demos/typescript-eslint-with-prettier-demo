@@ -1,3 +1,5 @@
 function hello() {
-  return "Hello!";
+  return "Hello! Hello! Hello! " + "Hello! Hello! Hello! " + "Hello! Hello! Hello! " + "Hello! Hello! Hello! " + "Hello! Hello! Hello! ";
 }
+
+hello();
